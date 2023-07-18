@@ -4,13 +4,11 @@
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [Te chhallenge](#the-challenge)
-    -   [Screenshot](#screenshot)
+
     -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
--   [Author](#Yusuf Mubarak)
+-   [Author](Yusuf Mubarak)
 
 ## Overview
 
